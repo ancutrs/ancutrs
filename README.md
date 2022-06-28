@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anucha
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently working in Air-Condiner Manufacturing
+- 🌱 I’m currently working in air-condiner manufacturing factory
 - 💞️ I’m looking to collaborate on A.I.
 
 <!---
